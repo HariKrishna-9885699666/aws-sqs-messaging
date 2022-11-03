@@ -16,4 +16,4 @@ node send.js
 node read.js
 ```
 
-[![Demo]](https://www.loom.com/embed/b19ff89d517f4108a07d05292848ef6a)
+<video src='https://www.loom.com/embed/b19ff89d517f4108a07d05292848ef6a' width=180/>
