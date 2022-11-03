@@ -18,5 +18,5 @@ node read.js
 
 
 
-[<img src="https://cdn.loom.com/sessions/thumbnails/b19ff89d517f4108a07d05292848ef6a-with-play.gif" width="50%">](https://www.loom.com/embed/b19ff89d517f4108a07d05292848ef6a>)
+[<img src="https://cdn.loom.com/sessions/thumbnails/b19ff89d517f4108a07d05292848ef6a-with-play.gif">]
 
